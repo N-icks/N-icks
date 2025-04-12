@@ -1,6 +1,6 @@
 - 👋 Opa, eu sou o @N-icks
-- 👀 Me interesso pelas linguagens: Java, C#, HTML, CSS e Produção de Jogos.
-- 🌱 Estou recentement estudando Java.
+- 👀 Gosto de Java e Produção de Jogos.
+- 🌱 Estou recentement desenvolvendo o Metanoia
 - 🐋 Sou Brasileiro né pq o pai é top😎💪.
 - ⚡ Fato curioso: Eu gosto de Cookies.
 
