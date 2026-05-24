@@ -1,6 +1,6 @@
 - 👋 Opa, eu sou o @N-icks
 - 👀 Sou Produtor Musical, Programador (Java 4ever🔥😭🙌) e Gamedev.
-- 🌱 Estou recentement desenvolvendo o Metanoia no Game Maker!
+- 🌱 Estou atualmente desenvolvendo o Metanoia no Game Maker!
 - 🐋 17y.
 - ⚡ Fato curioso: Eu gosto de Cookies. <-- Muito
 
