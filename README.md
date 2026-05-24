@@ -1,8 +1,8 @@
 - 👋 Opa, eu sou o @N-icks
-- 👀 Gosto de Java e Produção de Jogos.
-- 🌱 Estou recentement desenvolvendo o Metanoia
-- 🐋 Sou Brasileiro né pq o pai é top😎💪.
-- ⚡ Fato curioso: Eu gosto de Cookies.
+- 👀 Sou Produtor Musical, Programador (Java 4ever🔥😭🙌) e Gamedev.
+- 🌱 Estou recentement desenvolvendo o Metanoia no Game Maker!
+- 🐋 17y.
+- ⚡ Fato curioso: Eu gosto de Cookies. <-- Muito
 
 <!---
 N-icks/N-icks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
